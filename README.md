@@ -1,7 +1,7 @@
-CSCE 790: Machine Learning Systems
+CSCE 580: Artificial Intelligence
 ==================================================
 
-This repository contains my course notes, lectures, and other supporting material for [CSCE 580 - Aritifical Intelligence](https://pooyanjamshidi.github.io/csce580/), I teach at USC.
+This repository contains my course notes, lectures, and other supporting material for [CSCE 580 - Artificial Intelligence](https://pooyanjamshidi.github.io/csce580/), I teach at USC.
 
 TODO
 
