@@ -3,7 +3,8 @@ title: CSCE 580
 subtitle: Artificial Intelligence
 email: pjamshid@cse.sc.edu
 description: "This course will introduce the basic ideas and techniques underlying the design of intelligent computer systems. A specific emphasis will be on the statistical and decision-theoretic modeling paradigm."
-office_hours: "Friday 1-3pm"
+class_hours: "TR 4:25 - 5:40pm"
+office_hours: "TR 3-4pm"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://pooyanjamshidi.github.io/csce580/" # the base hostname & protocol for your site
