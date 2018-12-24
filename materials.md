@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course Materials
-permalink: /course-materials/
+permalink: /materials/
 ---
 
 {% include image.html url="/csce580/_images/aima-cover.jpg" caption="The Textbook for the Semester" width=300 align="right" %}
