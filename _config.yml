@@ -1,10 +1,10 @@
 # Site settings
 title: CSCE 580
-subtitle: Artificial Intelligence
+subtitle: Artificial Intelligence (Under Construction)
 email: pjamshid@cse.sc.edu
 description: "This course will introduce the basic ideas and techniques underlying the design of intelligent computer systems. A specific emphasis will be on the statistical and decision-theoretic modeling paradigm."
 class_hours: "TR 4:25 - 5:40pm"
-class_location: "300 Main St. B213"
+classroom: "300 Main St. B213"
 office_hours: "TR 3 - 4pm"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
