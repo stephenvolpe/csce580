@@ -10,7 +10,7 @@ We envision several routes of communication for this course:
 
 * The main mode of electronic communication between students and TAs, as well as amongst students, will be through [Piazza](https://piazza.com/class/jq2sj4ik7wb2ja). It is intended for general questions about the course, clarifications about assignments, student questions to each other, discussions about material, and so on. 
 
-* If you need to contact the instructor, you should email pjamshid AT cse.sc.edu. 
+* If you need to contact the instructor, you should **email** pjamshid AT cse.sc.edu. 
 
 ## Attendance and class participation
 Attendance is essential for success in this course. We encourage all students to actively participate in class (by asking or answering questions, sharing experience, discussing project ideas, etc). Active participation will enhance your learning experience and that of the other students. There will be also some quizzes which are designed to emphasize a salient issue in the lecture of the day or in a previous lecture. Another purpose of quizzes is to take attendance. 
@@ -43,17 +43,17 @@ Overall grades will be based on:
 The grading scale will be based on:
 
 | Grade        	| Score         | 
-| ------------- |:-------------:| 
-| A     | [90 -- 100]%  | 
-| B+    | [86 -- 90)%      | 
+| ------------- |:-------------| 
+| A     | [90 -- 100]%  	| 
+| B+    | [86 -- 90)%       | 
 | B 	| [75 -- 86)%       | 
 | C+ 	| [70 -- 75)%       | 
 | C 	| [60 -- 70)%       | 
 | D+ 	| [55 -- 60)%       | 
 | D 	| [40 -- 55)%       | 
-| F 	| [0 -- 40)%       | 
+| F 	| [0 -- 40)%        | 
 
 
 ## Template for Homeworks
 
-All homeworks must be submitted in the following [template](https://github.com/pooyanjamshidi/csce580/blob/master/resources/coursework-template.zip).
+All homeworks must be submitted in the following [template](https://github.com/pooyanjamshidi/csce580/blob/master/resources/homework-template.zip).
