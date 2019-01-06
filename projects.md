@@ -12,8 +12,19 @@ The Pac-Man projects apply an array of AI techniques to playing Pac-Man. These p
 ## Released Projects
 
 ### [P0: UNIX/Python Tutorial](https://pooyanjamshidi.github.io/csce580/projects/project0/)
-This short UNIX/Python tutorial introduces students to the [Python](http://www.python.org/) programming language and the UNIX environment.
+- This short UNIX/Python tutorial introduces students to the [Python](http://www.python.org/) programming language and the UNIX environment.
 
+### P1: Search
+
+### P2: Multi-Agent Search 
+
+### P3: Reinforcement Learning 
+
+### P4: Ghostbusters 
+
+### P5: Machine Learning 
+
+### Contest: Multi-Agent Adversarial Pacman
 
 ## Technical Notes
 The Pac-Man projects are written in pure Python 3.6 and do not depend on any packages external to a standard Python distribution.
