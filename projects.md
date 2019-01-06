@@ -11,7 +11,7 @@ The Pac-Man projects apply an array of AI techniques to playing Pac-Man. These p
 
 ## Released Projects
 
-### [P0: UNIX/Python Tutorial](https://pooyanjamshidi.github.io/csce580/projects/project0/)
+### [P0: UNIX/Python Tutorial](https://pooyanjamshidi.github.io/csce580/project0/)
 - This short UNIX/Python tutorial introduces students to the [Python](http://www.python.org/) programming language and the UNIX environment.
 
 ### P1: Search
