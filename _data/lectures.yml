@@ -8,12 +8,12 @@
   dirname: lectures
   tldr: ""
 
-- title: "Lecture 3 (Jan 22-24): Uninformed Search"
+- title: "Lecture 3 (Jan 22-24): Uninformed Search: Depth-first, Breadth-first, and Uniform Cost Search"
   filename: csce580-03
   dirname: lectures
   tldr: ""
 
-- title: "Lecture 4 (Jan 29-31): A* Search and Heuristics, Adversarial Search"
+- title: "Lecture 4 (Jan 29-31): Informed Search: A* Search, Heuristics, and Adversarial Search"
   filename: csce580-04
   dirname: lectures
   tldr: ""
