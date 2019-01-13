@@ -1,0 +1,63 @@
+\documentclass[12pt,twoside]{article}
+
+\newcommand{\reporttitle}{CSCE 580: Artificial Intelligence}
+\newcommand{\reportauthor}{Your Name}
+\newcommand{\reporttype}{Homework}
+\newcommand{\cid}{your college-id number}
+
+% include files that load packages and define macros
+\input{includes} % various packages needed for maths etc.
+\input{notation} % short-hand notation and macros
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+% front page
+\input{titlepage}
+
+These questions check your level of mathematical preparedness for this course. Most students will be able to answer all of these questions. You can check your programming preparedness by doing Project 1: Search. 
+
+
+
+\paragraph{Probabilistic inference:} Your box of cereal may be a contest winner! It’s rattling, which 100\% of winning boxes do. Of course 1\% of all boxes rattle and only one box in a million is a winner. What is the probability that your box is a winner?
+
+\vspace{4cm}
+
+
+\paragraph{Events:} You are playing a solitaire game in which you are dealt three cards without replacement from a simplified deck of 10 (marked 1 through 10). You win if all your cards are odd or if one of them is a 10. How many winning hands are there if different orders are different hands? What is your chance of winning?
+
+\vspace{4cm}
+
+\paragraph{Expectations:} Someone rolls a fair six-sided die and you win points equal to the number shown. What is the expected number of points after one roll? After 2 rolls? After 100 rolls?
+
+\clearpage
+
+\paragraph{Conditional Probabilities:} Which of the following statements are true for all joint distributions over $X$ and $Y$ : (a) $P(x, y) = P(x)P(y)$, (b) $P(x, y) = P(x|y)P(y)$, (c) $P(x, y) = P(x|y)P(y|x)$, (d) $P(x) = \Sigma_y P(x|y)$, (e) $P(x) = \Sigma_y P(x, y)$?
+
+\vspace{4cm}
+
+\paragraph{Linear Equations:} You know that $x=\frac{1}{2}y+\frac{1}{2}(x+1)$ and $y=\frac{1}{3}y+\frac{1}{3}(x+2)$. What are $x$ and $y$?
+
+\vspace{4cm}
+
+\paragraph{Logarithms:} Which of the following statements are true: (a) $2^{(xy)} = 2^x2^y$
+, (b) $2^{(x+y)} = 2^x2^y$, (c) $2^{(x+y)} = 2^x + 2^y$, (d) $log(3^x) = log(3)log(x)$, (e) $log(3^x
+) = x log(3)$, (f) $log(3^x) = 3x$?
+
+\vspace{2cm}
+
+\paragraph{Hashing:} What critical operation is generally faster in a hashtable than in a linked list, and how fast is it typically in each? When will a hashtable degrade to the speed of a list?
+
+\clearpage
+
+
+\paragraph{Induction:} Prove by induction that the sum of the first $n$ odd integers is $n^2$.
+
+
+
+\end{document}
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: t
+%%% End: 

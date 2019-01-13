@@ -1,0 +1,74 @@
+- title: "Lecture 1 (Jan 15-17): Introduction to AI"
+  filename: csce580-01
+  dirname: lectures
+  tldr: "This lecture makes an introduction to AI and reviews scope of the course"
+
+- title: "Lecture 2 (Jan 22-24): Intelligent Agents"
+  filename: csce580-02
+  dirname: lectures
+  tldr: ""
+
+- title: "Lecture 3 (Jan 22-24): Uninformed Search"
+  filename: csce580-03
+  dirname: lectures
+  tldr: ""
+
+- title: "Lecture 4 (Jan 29-31): A* Search and Heuristics"
+  filename: csce580-04
+  dirname: lectures
+  tldr: ""
+
+- title: "Lecture 5 (Feb 5-7): Adversarial Search"
+  filename: csce580-05
+  dirname: lectures
+  tldr: ""
+
+- title: "Lecture 6 (Feb 12-14): Uncertainty and Utilities"
+  filename: csce580-06
+  dirname: lectures
+  tldr: ""
+
+- title: "Lecture 7 (Feb 19-21): Probabilistic Reasoning and Inference"
+  filename: csce580-07
+  dirname: lectures
+  tldr: ""
+
+- title: "Lecture 8 (Feb 26-28): Markov Decision Processes"
+  filename: csce580-08
+  dirname: lectures
+  tldr: ""
+
+- title: "Lecture 9 (Mar 5-7): Reinforcement Learning I"
+  filename: csce580-09
+  dirname: lectures
+  tldr: ""
+
+- title: "Lecture 10 (Mar 19-21): Reinforcement Learning II"
+  filename: csce580-10
+  dirname: lectures
+  tldr: ""
+
+- title: "Lecture 11 (Mar 26-28): Bayes’ Nets"
+  filename: csce580-11
+  dirname: lectures
+  tldr: ""
+
+- title: "Lecture 12 (Apr 2-4): Decision Networks"
+  filename: csce580-12
+  dirname: lectures
+  tldr: ""
+
+- title: "Lecture 13 (Apr 9-11): Learning: Naïve Bayes"
+  filename: csce580-13
+  dirname: lectures
+  tldr: ""
+
+- title: "Lecture 14 (Apr 16-18): Learning: Deep Neural Newtorks"
+  filename: csce580-14
+  dirname: lectures
+  tldr: ""
+
+- title: "Lecture 15 (Apr 23-25): Learning: Support Vector Machines"
+  filename: csce580-15
+  dirname: lectures
+  tldr: ""
