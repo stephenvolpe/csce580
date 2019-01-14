@@ -1,0 +1,202 @@
+\documentclass[11pt]{article}
+\usepackage{fullpage}
+\usepackage[left=1in,top=1in,right=1in,bottom=1in,headheight=3ex,headsep=3ex]{geometry}
+
+\newcommand{\blankline}{\quad\pagebreak[2]}
+
+\title{CSCE 580 - Artificial Intelligence}
+\author{Instructor: Pooyan Jamshidi}
+\date{Spring semesters}
+
+\usepackage[sc]{mathpazo}
+\linespread{1.05}         % Palatino needs more leading (space between lines)
+\usepackage[T1]{fontenc}
+
+\usepackage[mmddyyyy]{datetime}% http://ctan.org/pkg/datetime
+\usepackage{advdate}% http://ctan.org/pkg/advdate
+\newdateformat{syldate}{\twodigit{\THEMONTH}/\twodigit{\THEDAY}}
+\newsavebox{\MONDAY}\savebox{\MONDAY}{Mon}% Mon
+
+\newcommand{\week}[1]{%
+%  \cleardate{mydate}% Clear date
+% \newdate{mydate}{\the\day}{\the\month}{\the\year}% Store date
+  \paragraph*{\kern-2ex\quad #1, \syldate{\today} - \AdvanceDate[4]\syldate{\today}:}% Set heading  \quad #1
+%  \setbox1=\hbox{\shortdayofweekname{\getdateday{mydate}}{\getdatemonth{mydate}}{\getdateyear{mydate}}}%
+  \ifdim\wd1=\wd\MONDAY
+    \AdvanceDate[7]
+  \else
+    \AdvanceDate[7]
+  \fi%
+}
+
+
+
+\usepackage{setspace}
+\usepackage{multicol}
+%\usepackage{indentfirst}
+\usepackage{fancyhdr,lastpage}
+\usepackage{url}
+\pagestyle{fancy}
+\usepackage{hyperref}
+\usepackage{lastpage}
+\usepackage{amsmath}
+\usepackage{layout}   
+\lhead{}
+\chead{}
+\rhead{\footnotesize Artificial Intelligence}
+\lfoot{}
+\cfoot{\small \thepage/\pageref*{LastPage}}
+\rfoot{}
+
+\usepackage{array,xcolor}
+\usepackage{color,hyperref}
+\hypersetup{colorlinks,breaklinks,
+            linkcolor=clemsonorange,urlcolor=blue,
+            anchorcolor=clemsonorange,citecolor=black}
+
+
+
+
+\begin{document}
+
+
+\maketitle
+
+\blankline
+
+\begin{tabular*}{.93\textwidth}{@{\extracolsep{\fill}}lr}
+
+
+\href{https://pooyanjamshidi.github.io/csce580/}{\tt\bf https://pooyanjamshidi.github.io/csce580/}  & E-mail: \texttt{pjamshid@cse.sc.edu} \\
+Prerequisites: CSCE 350 \\
+
+&  \\
+
+\hline
+\end{tabular*}
+
+\vspace{10mm}
+
+\section*{Course Description}
+
+This course will introduce the basic ideas and techniques underlying the design of intelligent computer-based systems. As opposed to a traditional logic-based artificial intelligence (AI) course, a specific emphasis will be on statistical inference and machine learning. 
+
+
+
+\section*{Learning Outcomes}
+\begin{enumerate}
+\item Underestanding classical as well as recently discovered methods in AI, and explore their potential applications.
+
+\item Building AI systems that make decisions and act in fully informed, partially observable, adversarial environments.
+
+\item Building AI systems that make probabilistic inferences in uncertain and dynamic environments.
+
+\end{enumerate}
+
+
+\section*{Course Syllabi}
+
+\begin{enumerate}
+  \item Lecture 1: Introduction to AI
+  \item Lecture 2: Intelligent Agents
+  \item Lecture 3: Uninformed Search: Depth-first, Breadth-first, and Uniform Cost Search
+  \item Lecture 4: Informed Search: A* Search, Heuristics, and Adversarial Search
+  \item Lecture 5: Constraint Satisfaction Problems
+  \item Lecture 6: Game Trees: Minimax, Expectimax, Utilities
+  \item Lecture 7: Markov Decision Processes
+  \item Lecture 8: Reinforcement Learning I
+  \item Lecture 9: Reinforcement Learning II
+  \item Lecture 10: Probability
+  \item Lecture 11: Bayes' Nets, Decision Networks, Hidden Markov Models
+  \item Lecture 12: Learning: Naïve Bayes
+  \item Lecture 13: Learning: Perceptrons and Logistic Regression
+  \item Lecture 14: Learning: Optimization and Deep Neural Newtorks
+  \item Lecture 15: Learning: Decision Trees, Support Vector Machines
+\end{enumerate}
+
+
+\section*{Course Projects and Homeworks}
+
+The Pac-Man projects apply an array of AI techniques to playing Pac-Man. These projects are desgined to teach foundational AI concepts, such as informed state-space search, probabilistic inference, and reinforcement learning.
+
+\begin{itemize}
+\item P0: UNIX/Python Tutorial
+\item P1: Search
+\item P2: Multi-Agent Search
+\item P3: Reinforcement Learning
+\item P4: Ghostbusters
+\item P5: Machine Learning
+\item Contest: Multi-Agent Adversarial Pacman
+\end{itemize}
+
+\section*{Prerequisites}
+
+CSCE 350
+
+\section*{Textbook}
+
+Stuart Russell and Peter Norvig (2010). Artificial Intelligence: A Modern Approach (Third Edition). Prentice-Hall.
+
+
+\section*{Course Policy}
+
+
+\subsection*{Attendance and class participation}
+Attendance is essential for success in this course. We encourage students to ask questions and your active participation (by asking or answering questions, sharing experience, discussing project ideas, etc) in this course will enhance your learning experience and that of the other students.
+
+% \subsection*{Grading Policy}
+% \begin{itemize}
+%   \item \underline{\textbf{10\%}} of your grade will be determined by your attendance and participation in class. Generally, ask questions and answer them.
+
+%   \item \underline{\textbf{60\%}} of your grade will be determined by the course project. There will be only one project per team of students which will be formed in the first 3 weeks. Each team will be working on their own project throughout the semester and they will present/demo their work at the end of semester. The grade will be per student depending on her/his contribution to the project, progress throughout the semester, and the quality of the final presentation. 
+
+%   \item \underline{\textbf{30\%}} of your grade will be determined by courseworks/homeworks throughout the semester. Homeworks are assignments/quizzes need to be delivered in 1-2 weeks, so students do these assignments regularly throughout the semester.
+
+% \end{itemize}
+
+% The grading scale: A = 90 to 100, B = 80 to 89, C = 70 to 79, D = 60 to 69, F <= 59.
+
+% The final exam will be Tuesday, December 11, at 4:00pm in SWGN 2A24.
+
+
+\subsection*{Academic Integrity}
+
+I would encourage you to discuss or brainstorm with other students or professors, but be aware if you copy/paste from other students/Internet, you will simply fail this course. All the potential Honor Code violations will be reported to the Office of Academic Integrity, which has the authority to implement non-academic penalties as described in STAF 6.25 (\url{http://www.sc.edu/policies/ppm/staf625.pdf}).
+
+\subsection*{Disabilities Policy}
+
+Any student who has a need for accommodation based on the impact of
+a documented disability, please contact the Office of Student Disability Services: Phone: 803-777-6142, Email: \textit{sasds@mailbox.sc.edu}, Address: 1523 Greene Street, LeConte College Room 112A, Web: \url{https://www.sc.edu/about/offices_and_divisions/student_disability_resource_center/index.php}.
+
+\subsection*{Details}
+\url{https://pooyanjamshidi.github.io/csce580/policies/}
+
+% \newpage
+% \section*{Course Schedule}
+% The schedule is tentative and can subject to change.
+
+% \SetDate[20/08/2018]
+% \week{Week 01} Introduction to ML systems
+% \week{Week 02} Case study 1 (Uber)
+% \week{Week 03} Technical debt in ML systems
+% \week{Week 04} Performance issues in ML systems
+% \week{Week 05} Case study 2 (Spotify)
+% \week{Week 06} Distributed ML systems
+% \week{Week 07} Interoperability between ML systems
+% \week{Week 08} Case study 3 (Netflix)
+% \week{Week 09} Differentiable neural architectures
+% \week{Week 10} Data architecture patterns
+% \week{Week 11} Computing architecture for ML systems
+% \week{Week 12} Scalable ML systems
+% \week{Week 13} Deploy models to production
+% \week{Week 14} Evolving ML systems (Evolving deep neural architectures)
+% \week{Week 15} Showcase final projects
+
+
+% \begin{itemize}
+% \item Read this too
+% \item And also this
+% \end{itemize}
+
+
+\end{document}
