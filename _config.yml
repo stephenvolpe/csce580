@@ -1,6 +1,6 @@
 # Site settings
 title: CSCE 580
-subtitle: Artificial Intelligence (Under Construction)
+subtitle: Artificial Intelligence
 email: pjamshid@cse.sc.edu
 description: "This course will introduce the basic ideas and techniques underlying the design of intelligent computer-based systems. As opposed to a traditional logic-based artificial intelligence (AI) course, a specific emphasis will be on statistical inference and machine learning."
 learning_goals: "Learning goals include: (i) Underestanding classical as well as recently discovered methods in AI, and explore their potential applications. (ii) Building AI systems that autonomously make decision and act not only in fully informed environments, but also in partially observable and adversarial contexts. (iii) Building AI systems that make probabilistic inferences in uncertain and dynamic environments."

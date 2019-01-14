@@ -4,24 +4,6 @@ title: Lectures (Tentative)
 permalink: /lectures/
 ---
 
-<!-- <ul id="archive">
-
-
-{% for gallery in site.data.lectures %}
-  {% if lectures.id == page.galleryid %}
-    <h1>{{ lectures.description }}</h1>
-    {% for image in sortedimages %}
-      <li class="archiveposturl">
-        <span><a href="{{ site.url }}/graphs/{{ image.file }}">{{image.title }}</a></span><br>
-<span class = "postlower">{{ image.caption }}<br />
-<strong>Tags:</strong> {{ image.tags }}</span>
-      </li>
-    {% endfor %}
-  {% endif %}
-{% endfor %}
-
-</ul> -->
-
 
 <ul id="archive">
 {% for lectures in site.data.lectures %}
