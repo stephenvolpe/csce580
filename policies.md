@@ -8,7 +8,7 @@ permalink: /policies/
 ## Communication
 We envision several routes of communication for this course:
 
-* The main mode of electronic communication between students and TAs, as well as amongst students, will be through [Piazza](https://piazza.com/class/jq2sj4ik7wb2ja). It is intended for general questions about the course, clarifications about assignments, student questions to each other, discussions about material, and so on. 
+* The main mode of electronic communication between students and TAs, as well as amongst students, will be through [Piazza](https://piazza.com/sc/spring2019/csce580/home). It is intended for general questions about the course, clarifications about assignments, student questions to each other, discussions about material, and so on. 
 
 * If you need to contact the instructor, you should **email** pjamshid AT cse.sc.edu. 
 
