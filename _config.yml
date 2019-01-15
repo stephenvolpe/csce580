@@ -18,6 +18,7 @@ leadimage_description: "Welcome to CSCE 580: Artificial Intelligence"
 authorurl: "https://pooyanjamshidi.github.io"
 syllabus: ""
 githublink: "https://github.com/pooyanjamshidi/csce580"
+piazzaurl: "https://piazza.com/sc/spring2019/csce580/home"
 
 # Build settings
 markdown: kramdown
