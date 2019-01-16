@@ -10,7 +10,7 @@ classroom: "300 Main St. B213"
 office_hours: "TR 3 - 4pm"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://pooyanjamshidi.github.io/csce580/" # the base hostname & protocol for your site
+url: "https://pooyanjamshidi.github.io/csce580" # the base hostname & protocol for your site
 twitter_username: pooyanjamshidi
 github_username: pooyanjamshidi
 leadimage: ai-photo1.jpg
