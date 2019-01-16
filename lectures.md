@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Lectures (Tentative)
+title: Lectures
 permalink: /lectures/
 ---
 
+Note that each lecture will be released weekly after each class.
 
 <ul id="archive">
 {% for lectures in site.data.lectures %}
