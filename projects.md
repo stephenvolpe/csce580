@@ -14,7 +14,8 @@ The Pac-Man projects apply an array of AI techniques to playing Pac-Man. These p
 ### [P0: UNIX/Python Tutorial](https://pooyanjamshidi.github.io/csce580/project0/)
 - This short UNIX/Python tutorial introduces students to the [Python](http://www.python.org/) programming language and the UNIX environment.
 
-### P1: Search
+### [P1: Search](https://pooyanjamshidi.github.io/csce580/project1/)
+- Students implement depth-first, breadth-first, uniform cost, and A* search algorithms. These algorithms are used to solve navigation problems in the Pacman world.
 
 ### P2: Multi-Agent Search 
 
