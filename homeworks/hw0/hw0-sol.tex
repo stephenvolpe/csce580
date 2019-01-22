@@ -1,0 +1,105 @@
+\documentclass[12pt,twoside]{article}
+
+\newcommand{\reporttitle}{CSCE 580: Artificial Intelligence}
+\newcommand{\reportauthor}{Your Name}
+\newcommand{\reporttype}{Homework}
+\newcommand{\cid}{your college-id number}
+
+% include files that load packages and define macros
+\input{includes} % various packages needed for maths etc.
+\input{notation} % short-hand notation and macros
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+% front page
+\input{titlepage}
+
+These questions check your level of mathematical preparedness for this course. Most students will be able to answer all of these questions. You can check your programming preparedness by doing Project 1: Search. 
+
+
+
+\paragraph{Probabilistic inference:} Your box of cereal may be a contest winner! It’s rattling, which 100\% of winning boxes do. Of course 1\% of all boxes rattle and only one box in a million is a winner. What is the probability that your box is a winner?
+
+{\color{red}
+According to Bayes’ rule:
+
+$P(win|rattle)=\frac{P(rattle|win)P(win)}{P(rattle)}=\frac{1\times1/1000000}{1/100}=\frac{1}{10000}$
+
+}
+
+\paragraph{Events:} You are playing a solitaire game in which you are dealt three cards without replacement from a simplified deck of 10 (marked 1 through 10). You win if all your cards are odd or if one of them is a 10. How many winning hands are there if different orders are different hands? What is your chance of winning?
+
+{\color{red}
+	We count the size of various event types:\\
+	\# hands that are all odd = $5 \times 4 \times 3 = 60$\\
+	\# hands that contain 10 = $1 \times 9 \times 8 + 9 \times 1 \times 8 + 9 \times 8 \times 1 = 3 \times 9 \times 8 = 216$\\
+	\# hands that are all odd and contain 10 = 0\\
+	\# winning hands = 276\\
+	\# hands = 10 · 9 · 8 = 720\\
+	$P(win)=\frac{276}{720}$
+
+}
+
+\paragraph{Expectations:} Someone rolls a fair six-sided die and you win points equal to the number shown. What is the expected number of points after one roll? After 2 rolls? After 100 rolls?
+
+{\color{red}
+
+Let X = outcome of a single roll:\\
+Expected points after 1 roll = $E({X})=1\times \frac{1}{6} + 2 \times \frac{1}{6} + \dots + 6 \times \frac{1}{6} = 3.5$ \\
+Expected points after 2 rolls = $E({X+X})= E(X) + E(X) = 7$ \\
+Expected points after n rolls = $E({n\times X})= n \times E(X) = 3.5 n $ \\
+
+}
+
+
+\paragraph{Conditional Probabilities:} Which of the following statements are true for all joint distributions over $X$ and $Y$ : (a) $P(x, y) = P(x)P(y)$, (b) $P(x, y) = P(x|y)P(y)$, (c) $P(x, y) = P(x|y)P(y|x)$, (d) $P(x) = \Sigma_y P(x|y)$, (e) $P(x) = \Sigma_y P(x, y)$?
+
+{\color{red}
+
+(a) FALSE: the definition of independence of $X$ and $Y$, so false in general \\
+(b) TRUE: the definition of conditional probability / the chain rule \\
+(c) FALSE: compare to (b) \\
+(d) FALSE: try $P(x|y) = 1$ for all $y$ \\
+(e) TRUE: the definition of marginal probability
+}
+
+\paragraph{Linear Equations:} You know that $x=\frac{1}{2}y+\frac{1}{2}(x+1)$ and $y=\frac{1}{3}y+\frac{1}{3}(x+2)$. What are $x$ and $y$?
+
+
+{\color{red}
+x = 4, y = 3
+}
+
+\paragraph{Logarithms:} Which of the following statements are true: (a) $2^{(xy)} = 2^x2^y$
+, (b) $2^{(x+y)} = 2^x2^y$, (c) $2^{(x+y)} = 2^x + 2^y$, (d) $log(3^x) = log(3)log(x)$, (e) $log(3^x
+) = x log(3)$, (f) $log(3^x) = 3x$?
+
+{\color{red}
+	only (b) and (e) are true.
+}
+
+\paragraph{Hashing:} What critical operation is generally faster in a hashtable than in a linked list, and how fast is it typically in each? When will a hashtable degrade to the speed of a list?
+
+{\color{red}
+Testing membership in a hashtable (contains) takes $O(1)$ time in expectation compared to $O(n)$ time in a linked list. The performance of contains in the hash table will degrade to $O(n)$ if the hash function sends $O(n)$ elements to the same hash value. This can happen if the hashing function is poorly chosen (e.g. all keys hash to the same value), or if the hashtable has too few buckets.
+}
+
+\paragraph{Induction:} Prove by induction that the sum of the first $n$ odd integers is $n^2$.
+
+{
+	\color{red}
+
+Let $S_n$ represent the sum of the first $n$ odd integers, and note that n-th odd integer is $2n-1$.\\
+
+	Now assume $S_{(n-1)} = (n - 1)^2$\\
+	then $S_n =S_{(n-1)}+(2n-1)=(n-1)^2+(2n-1)=n^2-2n+1+2n-1=n^2$
+
+}
+
+\end{document}
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: t
+%%% End: 
