@@ -6,7 +6,7 @@
 - title: "Lecture 2 (Jan 22-24): Uninformed Search: Depth-first, Breadth-first, and Uniform Cost Search"
   filename: CSCE580-lecture2--uninformed-search
   dirname: lectures
-  tldr: "This lecture will be about search algorithms that generate the search tree without using any domain specific knowledge"
+  tldr: "This lecture is about search algorithms that generate the search tree without using domain specific knowledge"
 
 - title: "Lecture 3 (Jan 29-31): Informed Search: A* Search, Heuristics, and Adversarial Search"
   filename: csce580-04
