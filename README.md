@@ -1,7 +1,7 @@
 CSCE 580: Artificial Intelligence
 ==================================================
 
-This repository contains course notes, lectures, project descriptions, and other supporting material for [CSCE 580 - Artificial Intelligence](https://pooyanjamshidi.github.io/csce580/), I teach at USC.
+This repository contains course notes, lectures, project descriptions, and other supporting material for [CSCE 580 - Artificial Intelligence](https://pooyanjamshidi.github.io/csce580/).
 
 ## Overview 
 This course will introduce the basic ideas and techniques underlying the design of intelligent computer-based systems. As opposed to a traditional logic-based artificial intelligence (AI) course, a specific emphasis will be on statistical inference and machine learning. 
