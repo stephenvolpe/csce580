@@ -10,7 +10,7 @@
 
 - title: "Lecture 3 (Jan 29-31): Informed Search: A* Search, Heuristics, and Adversarial Search"
   filename: CSCE580-lecture3--informed-search
-  dirname: lectures
+  dirname: lectures/
   tldr: "This lecture is about search algorithms that use problem-specific knowledge beyond the problem definition"
 
 - title: "Lecture 4 (Feb 5-7): Constraint Satisfaction Problems"
