@@ -9,9 +9,9 @@
   tldr: "This lecture is about search algorithms that generate the search tree without using domain specific knowledge"
 
 - title: "Lecture 3 (Jan 29-31): Informed Search: A* Search, Heuristics, and Adversarial Search"
-  filename: csce580-04
+  filename: CSCE580-lecture3--informed-search
   dirname: lectures
-  tldr: ""
+  tldr: "This lecture is about search algorithms that use problem-specific knowledge beyond the problem definition"
 
 - title: "Lecture 4 (Feb 5-7): Constraint Satisfaction Problems"
   filename: csce580-05
