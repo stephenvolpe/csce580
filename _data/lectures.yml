@@ -14,9 +14,9 @@
   tldr: "This lecture is about search algorithms that use problem-specific knowledge beyond the problem definition"
 
 - title: "Lecture 4 (Feb 5-7): Constraint Satisfaction Problems"
-  filename: csce580-05
+  filename: CSCE580-lecture4--csp
   dirname: lectures
-  tldr: ""
+  tldr: "This lecture is about the formulation of Constraint Satisfaction Problems and algorithms for solving them"
 
 - title: "Lecture 5 (Feb 12-14): Game Trees: Minimax, Expectimax, Utilities"
   filename: csce580-06
