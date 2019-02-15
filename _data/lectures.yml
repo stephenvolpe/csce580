@@ -19,9 +19,9 @@
   tldr: "This lecture is about the formulation of Constraint Satisfaction Problems and algorithms for solving them"
 
 - title: "Lecture 5 (Feb 12-14): Game Trees: Minimax, Expectimax, Utilities"
-  filename: csce580-06
+  filename: CSCE580-lecture5--adversarial-search
   dirname: lectures
-  tldr: ""
+  tldr: "This lecture is about algorithms used in games to find the best moves"
 
 - title: "Lecture 6 (Feb 19-21): Markov Decision Processes"
   filename: csce580-07
