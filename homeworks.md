@@ -12,3 +12,4 @@ permalink: /homeworks/
   - [HW1 solutions](https://github.com/pooyanjamshidi/csce580/tree/master/homeworks/hw1) Published on Feb 6
 * [HW2: CSPs](https://github.com/pooyanjamshidi/csce580/tree/master/homeworks/hw2)
   Due Date: Feb 15, 11:59 pm
+  - [HW2 solutions](https://github.com/pooyanjamshidi/csce580/tree/master/homeworks/hw2) Published on Feb 18
