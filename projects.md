@@ -17,7 +17,8 @@ The Pac-Man projects apply an array of AI techniques to playing Pac-Man. These p
 ### [P1: Search](https://pooyanjamshidi.github.io/csce580/project1/)
 - Students implement depth-first, breadth-first, uniform cost, and A* search algorithms. These algorithms are used to solve navigation problems in the Pacman world.
 
-### P2: Multi-Agent Search 
+### P2: [Multi-Agent Search](https://pooyanjamshidi.github.io/csce580/project2/) 
+- Classic Pacman is modeled as both an adversarial and a stochastic search problem. Students implement multiagent minimax and expectimax algorithms, as well as designing evaluation functions.
 
 ### P3: Reinforcement Learning 
 
