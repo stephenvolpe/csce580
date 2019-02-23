@@ -36,9 +36,9 @@ a documented disability, please contact the Office of Student Disability Service
 
 Overall grades will be based on:
 * Course Projects (40%)
-* Homework Assignments (10%)
+* Homework Assignments (15%)
 * Midterm (20%)
-* Final exam (30%)
+* Final exam (25%)
 
 The grading scale will be based on:
 
