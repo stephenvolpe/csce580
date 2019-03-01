@@ -57,6 +57,11 @@ The grading scale will be based on:
 
 If you believe an error has been made in the grading of one of your exams or assignments, you may resubmit it for a regrade. Because we will examine your entire submission in detail, your grade can go up or down as a result of a regrade request.
 
+## Enrollment
+
+All CSE majors can enroll in any CSCE class as long as they meet the pre-reqs for that class.
+The same for other majors, but they have to wait to sign up after the CSE majors, and might have to fill out the [override request form](https://cse.sc.edu/undergraduate/forms/override-request).
+
 
 ## Template for Homeworks
 
