@@ -59,7 +59,7 @@ If you believe an error has been made in the grading of one of your exams or ass
 
 ## Enrollment
 
-All CSE majors can enroll in any CSCE class as long as they meet the pre-reqs for that class.
+All CSE majors can enroll in this course as long as you meet the pre-reqs for the class [CSCE 350].
 The same for other majors, but they have to wait to sign up after the CSE majors, and might have to fill out the [override request form](https://cse.sc.edu/undergraduate/forms/override-request).
 
 
