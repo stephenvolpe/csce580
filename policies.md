@@ -53,6 +53,10 @@ The grading scale will be based on:
 | D 	| [40 -- 55)%       | 
 | F 	| [0 -- 40)%        | 
 
+## Regrading policy
+
+If you believe an error has been made in the grading of one of your exams or assignments, you may resubmit it for a regrade. Because we will examine your entire submission in detail, your grade can go up or down as a result of a regrade request.
+
 
 ## Template for Homeworks
 
