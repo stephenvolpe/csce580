@@ -16,3 +16,5 @@ permalink: /homeworks/
 * [HW3: Games](https://github.com/pooyanjamshidi/csce580/tree/master/homeworks/hw3)
   Due Date: Feb 25, 11:59 pm
   - [HW3 solutions](https://github.com/pooyanjamshidi/csce580/tree/master/homeworks/hw3) Published on Feb 26
+* [HW4: MDPs](https://github.com/pooyanjamshidi/csce580/tree/master/homeworks/hw4)
+  Due Date: Mar 11, 11:59 pm
