@@ -33,11 +33,6 @@
   dirname: lectures
   tldr: "This lecture is about how agents ought to take actions in an environment so as to maximize expected reward."
 
-# - title: "Lecture 9 (Mar 19-21): Probability"
-#   filename: csce580-10
-#   dirname: lectures
-#   tldr: ""
-
 - title: "Lecture 8 (Mar 26-28): Bayes’ Nets, Decision Networks, Hidden Markov Models"
   filename: csce580-11
   dirname: lectures
