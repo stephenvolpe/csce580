@@ -31,7 +31,7 @@
 - title: "Lecture 7 (Mar 5-7-21): Reinforcement Learning"
   filename: CSCE580-lecture7--RL
   dirname: lectures
-  tldr: ""
+  tldr: "This lecture is about how agents ought to take actions in an environment so as to maximize expected reward."
 
 # - title: "Lecture 9 (Mar 19-21): Probability"
 #   filename: csce580-10
