@@ -23,47 +23,47 @@
   dirname: lectures
   tldr: "This lecture is about algorithms used in games to find the best moves"
 
-- title: "Lecture 6 (Feb 19-21): Markov Decision Processes"
+- title: "Lecture 6 (Feb 19-21-26-28): Markov Decision Processes"
   filename: CSCE580-lecture6--MDPs
   dirname: lectures
   tldr: "This lecture is about mathematical framework for modeling decision making where outcomes are partly random"
 
-- title: "Lecture 7 (Feb 26-28): Reinforcement Learning I"
-  filename: csce580-08
+- title: "Lecture 7 (Mar 5-7-21): Reinforcement Learning"
+  filename: CSCE580-lecture7--RL
   dirname: lectures
   tldr: ""
 
-- title: "Lecture 8 (Mar 5-7): Reinforcement Learning II"
-  filename: csce580-09
-  dirname: lectures
-  tldr: ""
+# - title: "Lecture 9 (Mar 19-21): Probability"
+#   filename: csce580-10
+#   dirname: lectures
+#   tldr: ""
 
-- title: "Lecture 9 (Mar 19-21): Probability"
-  filename: csce580-10
-  dirname: lectures
-  tldr: ""
-
-- title: "Lecture 10 (Mar 26-28): Bayes’ Nets, Decision Networks, Hidden Markov Models"
+- title: "Lecture 8 (Mar 26-28): Bayes’ Nets, Decision Networks, Hidden Markov Models"
   filename: csce580-11
   dirname: lectures
   tldr: ""
 
-- title: "Lecture 11 (Apr 2-4): Learning: Naïve Bayes"
+- title: "Lecture 9 (Apr 2-4): Learning: Naïve Bayes"
   filename: csce580-12
   dirname: lectures
   tldr: ""
 
-- title: "Lecture 12 (Apr 9-11): Learning: Perceptrons and Logistic Regression"
+- title: "Lecture 10 (Apr 9-11): Learning: Perceptrons and Logistic Regression"
   filename: csce580-13
   dirname: lectures
   tldr: ""
 
-- title: "Lecture 13 (Apr 16-18): Learning: Optimization and Deep Neural Newtorks"
+- title: "Lecture 11 (Apr 16-18): Learning: Optimization and Deep Neural Newtorks"
   filename: csce580-14
   dirname: lectures
   tldr: ""
 
-- title: "Lecture 14 (Apr 23-25): Learning: Decision Trees, Support Vector Machines"
+- title: "Lecture 12 (Apr 23-25): Learning: Decision Trees, Support Vector Machines"
   filename: csce580-15
+  dirname: lectures
+  tldr: ""
+
+- title: "Lecture 13 (Apr 30): Advanced Deep Reinforcement Learning" (extra class!)
+  filename: csce580-09
   dirname: lectures
   tldr: ""
