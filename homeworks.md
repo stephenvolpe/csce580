@@ -18,3 +18,4 @@ permalink: /homeworks/
   - [HW3 solutions](https://github.com/pooyanjamshidi/csce580/tree/master/homeworks/hw3) Published on Feb 26
 * [HW4: MDPs](https://github.com/pooyanjamshidi/csce580/tree/master/homeworks/hw4)
   Due Date: Mar 11, 11:59 pm
+  - [HW4 solutions](https://github.com/pooyanjamshidi/csce580/tree/master/homeworks/hw4) Published on Mar 17
