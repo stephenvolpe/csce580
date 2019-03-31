@@ -20,7 +20,8 @@ The Pac-Man projects apply an array of AI techniques to playing Pac-Man. These p
 ### [P2: Multi-Agent Search](https://pooyanjamshidi.github.io/csce580/project2/) 
 - Classic Pacman is modeled as both an adversarial and a stochastic search problem. Students implement multiagent minimax and expectimax algorithms, as well as designing evaluation functions.
 
-### P3: Reinforcement Learning 
+### [P3: Reinforcement Learning](https://pooyanjamshidi.github.io/csce580/project3/) 
+- Students implement model-based and model-free reinforcement learning algorithms, applied to the AIMA textbook's Gridworld, Pacman, and a simulated crawling robot.
 
 ### P4: Ghostbusters 
 
