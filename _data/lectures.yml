@@ -28,7 +28,7 @@
   dirname: lectures
   tldr: "This lecture is about mathematical framework for modeling decision making where outcomes are partly random"
 
-- title: "Lecture 7 (Mar 5-7-21): Reinforcement Learning"
+- title: "Lecture 7 (Mar 5-7-21-28): Reinforcement Learning"
   filename: CSCE580-lecture7--RL
   dirname: lectures
   tldr: "This lecture is about how agents ought to take actions in an environment so as to maximize expected reward"
@@ -38,32 +38,32 @@
 #   dirname: lectures
 #   tldr: ""
 
-- title: "Lecture 8 (Mar 26-28): Bayes’ Nets, Decision Networks, Hidden Markov Models"
-  filename: csce580-11
+- title: "Lecture 8 (Mar 26, Apr 2-4-9-11): Bayes’ Nets: Representation, Independence, Inference, and Sampling"
+  filename: CSCE580-lecture8--BNs
   dirname: lectures
-  tldr: ""
+  tldr: "This lecture is about a type of probabilistic graphical models efficient for reasonning over many variables"
 
-- title: "Lecture 9 (Apr 2-4): Learning: Naïve Bayes"
+- title: "Lecture 9 (Apr 16): Learning: Naïve Bayes"
   filename: csce580-12
   dirname: lectures
   tldr: ""
 
-- title: "Lecture 10 (Apr 9-11): Learning: Perceptrons and Logistic Regression"
+- title: "Lecture 10 (Apr 18-23): Learning: Perceptrons and Logistic Regression"
   filename: csce580-13
   dirname: lectures
   tldr: ""
 
-- title: "Lecture 11 (Apr 16-18): Learning: Optimization and Deep Neural Newtorks"
+- title: "Lecture 11 (Apr 25-30): Learning: Optimization and Deep Neural Newtorks"
   filename: csce580-14
   dirname: lectures
   tldr: ""
 
-- title: "Lecture 12 (Apr 23-25): Learning: Decision Trees, Support Vector Machines"
+- title: "Lecture 12 (May 2-3): Learning: Decision Trees, Support Vector Machines"
   filename: csce580-15
   dirname: lectures
   tldr: ""
 
-- title: "Lecture 13 (Apr 30): Advanced Deep Reinforcement Learning (extra class!)"
-  filename: csce580-09
-  dirname: lectures
-  tldr: ""
+# - title: "Lecture 13 (Apr 30): Advanced Deep Reinforcement Learning (extra class!)"
+#   filename: csce580-09
+#   dirname: lectures
+#   tldr: ""
