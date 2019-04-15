@@ -19,3 +19,5 @@ permalink: /homeworks/
 * [HW4: MDPs](https://github.com/pooyanjamshidi/csce580/tree/master/homeworks/hw4)
   Due Date: Mar 11, 11:59 pm
   - [HW4 solutions](https://github.com/pooyanjamshidi/csce580/tree/master/homeworks/hw4) Published on Mar 17
+* [HW5: Ethics of AGI](https://github.com/pooyanjamshidi/csce580/tree/master/homeworks/hw5)
+  Due Date: April 29, 11:59 pm
