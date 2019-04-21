@@ -58,12 +58,12 @@
   dirname: lectures
   tldr: ""
 
-- title: "Lecture 12* (Apr 4): Learning: Perceptrons and Logistic Regression"
+- title: "Lecture 12* (May 4): Learning: Perceptrons and Logistic Regression"
   filename: csce580-13
   dirname: lectures
   tldr: ""
 
-- title: "Lecture 13* (May 5): Learning: Optimization and Deep Neural Newtorks"
+- title: "Lecture 13* (May 5): Learning: Optimization and Deep Neural Networks"
   filename: csce580-14
   dirname: lectures
   tldr: ""
